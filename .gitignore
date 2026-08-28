@@ -1,0 +1,8 @@
+/inference_local_v2.py
+/inference_nofinetune1.py
+/MANUAL_BOOK_FADHLUROHMAN_AL_FARABI.md
+/MANUAL_BOOK_PEWARNAAN_PROMPT.md
+/test_cuda.py
+/backend/unet/
+venv/
+.venv/
